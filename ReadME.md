@@ -24,7 +24,8 @@ Built a complete data warehouse system and ETL pipeline for Fudgemart and Fudgef
 
 ## 📈 Outcome
 Produced a fully functional BI system simulating a real-world retail & streaming company, enabling profit tracking, trend analysis, and executive-level reporting.
-
+#PowerBI
+![PowerBI](PowerBI.png)
 ## 📄 Files
 - `FinalProj_722.sln`: Visual Studio project w/ SSIS packages
 - `High-Level_Project.xlsx`: Data model & star schema
