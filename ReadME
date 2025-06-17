@@ -1,9 +1,11 @@
-# Cleaning up raw data and teaching it to behave
+# 🎯 Cleaning up raw data and teaching it to behave
 
 This project simulates an end-to-end ETL (Extract, Transform, Load) and business intelligence pipeline for a retail and streaming services conglomerate.
 
 ## 📁 Project Overview
 Built a complete data warehouse system and ETL pipeline for Fudgemart and Fudgeflix, integrating business data into a star schema for advanced reporting and analytics.
+
+![ETL Diagram](ETL_to_DW.png)
 
 ## ⚙️ Tools & Technologies
 - SQL Server
