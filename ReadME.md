@@ -5,8 +5,8 @@ This project simulates an end-to-end ETL (Extract, Transform, Load) and business
 ## 📁 Project Overview
 Built a complete data warehouse system and ETL pipeline for Fudgemart and Fudgeflix, integrating business data into a star schema for advanced reporting and analytics.
 
-![ETL Diagram](https://github.com/kelly12201984/ETL-Project/blob/main/ETL_to_DW.png)
-
+#ETL Diagram
+![ETL Diagram](https://github.com/kelly12201984/ETL-Project/raw/main/ETL_to_DW.png)
 
 ## ⚙️ Tools & Technologies
 - SQL Server
